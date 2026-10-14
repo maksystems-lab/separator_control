@@ -60,13 +60,13 @@ This is a simplified educational model not a rigorous engineering study It does 
 
 ## How to run it
 
- 1 Open separator.slx in MATLAB and Simulink
+ 1. Open separator.slx in MATLAB and Simulink
 
 
- 2 Poke around the subsystem blocks to see how the vessel balance PI loops and alarm logic are wired up
-
- 
- 3 Hit run and check out the scopes to compare how the tight versus averaging tunings behave
+ 2. Poke around the subsystem blocks to see how the vessel balance PI loops and alarm logic are wired up
 
  
- 4 Tweak the disturbance magnitude to see where the valve saturates or the alarms trigger
+ 3. Hit run and check out the scopes to compare how the tight versus averaging tunings behave
+
+ 
+ 4. Tweak the disturbance magnitude to see where the valve saturates or the alarms trigger
