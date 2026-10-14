@@ -1,4 +1,4 @@
-# separator_control
+# Separator control
 Simulink study of PI level control, disturbance rejection and valve saturation in a simplified separator vessel..
 
 
