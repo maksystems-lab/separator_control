@@ -1,11 +1,9 @@
-# Separator control
-Simulink study of PI level control, disturbance rejection and valve saturation in a simplified separator vessel..
-
-
 
 # Simulink PI Level Control Model for an Oil and Gas Separator
 
-A quick educational MATLAB and Simulink model looking at how different PI controller tunings handle liquid level control in a simplified separator vessel especially when a sudden slug of liquid comes through
+Simulink study of PI level control, disturbance rejection and valve saturation in a simplified separator vessel.
+
+A Simulink model looking at how different PI controller tunings handle liquid level control in a simplified separator vessel especially when a sudden slug of liquid comes through 
 
 ## What this model does
 
